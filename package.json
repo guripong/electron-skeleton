@@ -1,0 +1,19 @@
+{
+  "name": "ReadersEyeNewBridge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^6.0.10",
+    "electron-rebuild": "^1.8.6"
+  },
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
+}
